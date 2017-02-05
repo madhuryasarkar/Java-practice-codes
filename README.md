@@ -1,3 +1,4 @@
-# Leetcode-Java
+# Java-practice codes
 
-Leetode algorithms solved in Java.
+Algorithms and other challenges solved in java
+
